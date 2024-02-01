@@ -28,18 +28,20 @@ NA_Sales, EU_Sales, JP_Sales , Other_Sales, Global_Sales - Sales made by a parti
 ## Conclusions
 We have managed to find the answer to each question, and we can now share our report with the game producer. This report will contain the following information:
 
-North America is the top region has the highest average sales of $264,667.430.
-The most preferred platforms are as follows:
+1. North America is the top region has the highest average sales of $264,667.430.
+
+2. The most preferred platforms are as follows:
 X360 (Microsoft) is the top preferred console by users in North America making a total of $601.05 million.
 PS3 (Sony) is the top preferred console by users in Europe making a total of $343.71 million.
 DS (Nintendo) is the top preferred console by users in Japan making a total of $175.57 million.
 PS2 (Sony) is the top preferred console by users in other regions making a total of $193.44 million.
+
 3. The top most played game is Wii Sports making a total of $82.74 million       globally.
 
 4. The top games are as follows:
-
 Wii Sports has been the top game in North America, Europe, other regions.
 Pokemon Red/Pokemon Blue is the top game in Japan.
+
 5. Super Mario Bros. released in 1985 is the top old game still making global sales of $40.24 million. This is followed by Pokemon Red/Pokemon Blue (1996), Tetris (1989) and more.
 
 6. Action games are the most preferred across the globe, making a total of $1751.18 million.
