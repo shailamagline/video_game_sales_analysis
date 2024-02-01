@@ -14,14 +14,20 @@ We want to find the answers to the following questions:
 ## The dataset
 This dataset contains a list of video games with sales greater than 100,000 copies. Each row in the dataset represents a game, whereas, each column contains different attributes.
 
-The data set includes information about:
+### The data set includes information about:
 
 Rank - The overall rank of the game.
+
 Name - The name of the game.
+
 Platform- The platform on which the game was released.
+
 Year- The year in which the game was released.
+
 Genre-The genre of the game.
+
 Publisher-The publisher of the game.
+
 NA_Sales, EU_Sales, JP_Sales , Other_Sales, Global_Sales - Sales made by a particular game in North America, Europe, Japan, Other regions and Globally (in millions).
 
 
